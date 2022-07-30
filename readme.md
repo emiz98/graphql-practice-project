@@ -21,6 +21,7 @@ This project was build for learning graphQL and its environment.
     <img src="https://cdn.sanity.io/images/1z5g6za5/production/ea0d729f383fe9f113c7d2da95af5a39eecfa226-64x64.png?w=2000&fit=max&auto=format" width="60"  style="padding-right:20px"/>
     <img src="https://cdn.sanity.io/images/1z5g6za5/production/a882e2949438a37da709d38068e03d9bc33f2fc9-64x64.png?w=2000&fit=max&auto=format" width="60"  style="padding-right:20px"/>
     <img src="https://cdn.sanity.io/images/1z5g6za5/production/86767b7d764574fac74b912e72322497b278cef6-24x24.svg?w=2000&fit=max&auto=format" width="60"  style="padding-right:20px"/> 
+    <img src="https://cdn.sanity.io/images/1z5g6za5/production/7c6a0de4ccf01cbcd492b311e19992c2c5234887-256x256.png?w=2000&fit=max&auto=format" width="60"  style="padding-right:20px"/> 
     <img src="https://cdn.sanity.io/images/1z5g6za5/production/97986d3dd7e897b83e06a41aaf9ee7a8de146685-768x768.png?w=2000&fit=max&auto=format" width="60"  style="padding-right:20px"/>
 </p>
 
